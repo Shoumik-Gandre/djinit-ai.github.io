@@ -83,6 +83,7 @@ The answer is <u><i>Shadow Mode</i></u>.
 This is another of Tesla’s brilliant innovations, where even while a car is in manual mode i.e. while it is being driven by a person, Tesla is constantly observing, recording, learning and simulating driverless driving. This unique variation of reinforcement learning helps it prepare a very efficient and realistic model that is prepared for real-life and real-time operations.
 Another feature Tesla is testing right now is a predictive behavior as to what a pedestrian or cyclist in front of a vehicle might do. Then it will further predict to how all the vehicles around will react and move around giving it complete driving and road sense that even humans take great time, effort and experience to develop.
 
+#### Click on video link below
 [![Watch the video](https://i.vimeocdn.com/video/603457588.webp?mw=1300&mh=731&q=70)](https://player.vimeo.com/video/192179726?app_id=122963)
 
 Now comes the part that is certainly the best breakthrough Tesla has had in terms of Driverless Vehicles and in the field of Deep Learning and Neural Networks.
