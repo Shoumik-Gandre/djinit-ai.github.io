@@ -8,11 +8,11 @@ categories: python, deep learning
 ## An Insight into Tesla Autopilot AI
 Tesla Autopilot is a suite of advanced driver-assistance system features offered by Tesla that has lane centering, traffic-aware cruise control, self-parking, automatic lane changes, semi-autonomous navigation on limited access freeways, and the ability to summon the car from a garage or parking spot. In all of these features, the driver is responsible and the car requires constant supervision. The company claims the features reduce accidents caused by driver negligence and fatigue from long-term driving.
 
-![an-insight-tesla-autopilot-ai-1.png](https://github.com/Shoumik-Gandre/initai_test/blob/master/images/an-insight-tesla-autopilot-ai-1.png)
+![an-insight-tesla-autopilot-ai-1.png](/images/an-insight-tesla-autopilot-ai-1.png)
 
-![an-insight-tesla-autopilot-ai-2.png](https://github.com/Shoumik-Gandre/initai_test/blob/master/images/an-insight-tesla-autopilot-ai-2.png)
+![an-insight-tesla-autopilot-ai-2.png](/images/an-insight-tesla-autopilot-ai-2.png)
 
-![an-insight-tesla-autopilot-ai-3.png](https://github.com/Shoumik-Gandre/initai_test/blob/master/images/an-insight-tesla-autopilot-ai-3.png)
+![an-insight-tesla-autopilot-ai-3.png](/images/an-insight-tesla-autopilot-ai-3.png)
 
 Whoa! That’s a lot of heavy-tech words.
 To fully appreciate the awesomeness of this technological advancement made by Tesla, we must be acquainted with the concepts and challenges that define Autonomous Driving or rather that make a Driverless Car.
